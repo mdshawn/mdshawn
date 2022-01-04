@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm **Mujahidul Islam**
 #### Programmer | Developer | Designer | Learner
-![Programmer | Developer | Designer | Learner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Programmer | Developer | Designer | Learner](https://st.depositphotos.com/1756445/4385/i/600/depositphotos_43853619-stock-photo-word-cloud-programming-languages-or.jpg)
 
 Assalamualaikum. I'm Mujahidul Islam. I'm a webdeveloper since 2017. Currently maintaining App development with Web development.Under Bangladesh Technical  Education Board (BTEB) I'm gathering Diploma in Computer Technology Degree.Learning and Learning is my hobby.
 Thank You.
