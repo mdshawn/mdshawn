@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Mujeeb-ur-Rehman/Mujeeb-ur-Rehman/main/assets/readme-header.gif" alt="Hi there, I'm Mujahidul Islam!" width="100%" />
+<img src="https://raw.githubusercontent.com/Mujeeb-ur-Rehman/Mujeeb-ur-Rehman/main/assets/readme-header.gif" alt="Hi there, I'm Mujahidul Islam!" width="100%" />
 </div>
 
 <div align="center">
@@ -28,40 +28,40 @@ Here are some of the technologies and tools I work with:
 
 Web Development
 <p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-4EA94B%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express.js" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dwhite" alt="React" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node.js" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-06B6D4%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind CSS" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Bootstrap-7952B3%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Express.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express.js" />
+<img src="https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dwhite" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node.js" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite" alt="Bootstrap" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
+<img src="https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Dart-0175C2%3Fstyle%3Dfor-the-badge%26logo%3Ddart%26logoColor%3Dwhite" alt="Dart" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" alt="PHP" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/WordPress-21759B%3Fstyle%3Dfor-the-badge%26logo%3Dwordpress%26logoColor%3Dwhite" alt="WordPress" />
+<img src="https://img.shields.io/badge/Dart-0175C2%3Fstyle%3Dfor-the-badge%26logo%3Ddart%26logoColor%3Dwhite" alt="Dart" />
+<img src="https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" alt="PHP" />
+<img src="https://img.shields.io/badge/WordPress-21759B%3Fstyle%3Dfor-the-badge%26logo%3Dwordpress%26logoColor%3Dwhite" alt="WordPress" />
 </p>
 
 IT Support & Networking
 <p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Network_Configuration-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dcisco%26logoColor%3Dwhite" alt="Network Configuration" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Network_Security-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dfortinet%26logoColor%3Dwhite" alt="Network Security" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Active_Directory-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite" alt="Active Directory" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Virtualization-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dvmware%26logoColor%3Dwhite" alt="Virtualization" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Help_Desk-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-teams%26logoColor%3Dwhite" alt="Help Desk Support" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TCP/IP-000000%3Fstyle%3Dfor-the-badge%26logo%3Dwireshark%26logoColor%3Dwhite" alt="TCP/IP" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firewalls-FF4500%3Fstyle%3Dfor-the-badge%26logo%3Dpalo-alto-networks%26logoColor%3Dwhite" alt="Firewalls" />
+<img src="https://img.shields.io/badge/Network_Configuration-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dcisco%26logoColor%3Dwhite" alt="Network Configuration" />
+<img src="https://img.shields.io/badge/Network_Security-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dfortinet%26logoColor%3Dwhite" alt="Network Security" />
+<img src="https://img.shields.io/badge/Active_Directory-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite" alt="Active Directory" />
+<img src="https://img.shields.io/badge/Virtualization-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dvmware%26logoColor%3Dwhite" alt="Virtualization" />
+<img src="https://img.shields.io/badge/Help_Desk-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-teams%26logoColor%3Dwhite" alt="Help Desk Support" />
+<img src="https://img.shields.io/badge/TCP/IP-000000%3Fstyle%3Dfor-the-badge%26logo%3Dwireshark%26logoColor%3Dwhite" alt="TCP/IP" />
+<img src="https://img.shields.io/badge/Firewalls-FF4500%3Fstyle%3Dfor-the-badge%26logo%3Dpalo-alto-networks%26logoColor%3Dwhite" alt="Firewalls" />
 </p>
 
 Other Programming Languages
 <p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-A8B9CC%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQLite-003B57%3Fstyle%3Dfor-the-badge%26logo%3Dsqlite%26logoColor%3Dwhite" alt="SQLite" />
+<img src="https://img.shields.io/badge/C-A8B9CC%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C" />
+<img src="https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++" />
+<img src="https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java" />
+<img src="https://img.shields.io/badge/SQLite-003B57%3Fstyle%3Dfor-the-badge%26logo%3Dsqlite%26logoColor%3Dwhite" alt="SQLite" />
 </p>
 
 💼 Experience
@@ -133,18 +133,18 @@ Link to Repo | Live Demo
 📊 GitHub Stats
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmdshawn%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api%3Fusername%3Dmdshawn%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmdshawn%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmdshawn%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" />
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dmdshawn%26theme%3Dradical%26no-frame%3Dtrue" alt="GitHub Profile Trophy" />
+<img src="https://github-profile-trophy.vercel.app/%3Fusername%3Dmdshawn%26theme%3Dradical%26no-frame%3Dtrue" alt="GitHub Profile Trophy" />
 </a>
-<a href="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmdshawn%26theme%3Dradical%26hide_border%3Dtrue">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmdshawn%26theme%3Dradical%26hide_border%3Dtrue" alt="GitHub Streak Stats" />
+<a href="https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmdshawn%26theme%3Dradical%26hide_border%3Dtrue">
+<img src="https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmdshawn%26theme%3Dradical%26hide_border%3Dtrue" alt="GitHub Streak Stats" />
 </a>
-<img src="https://www.google.com/search?q=https://activity-graph.herokuapp.com/graph%3Fusername%3Dmdshawn%26theme%3Dgithub" alt="GitHub Activity Graph" />
+<img src="https://activity-graph.herokuapp.com/graph%3Fusername%3Dmdshawn%26theme%3Dgithub" alt="GitHub Activity Graph" />
 <img src="https://metrics.lecoq.io/mdshawn" alt="GitHub metrics" />
 <img src="https://gpvc.arturio.dev/mdshawn" alt="Profile views" />
 </div>
@@ -154,16 +154,16 @@ Let's connect and build something amazing!
 
 <p align="center">
 <a href="mailto:mujahidulislamshawn@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
+<img src="https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
 </a>
 <a href="https://devmujahidul.me/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Website" />
+<img src="https://img.shields.io/badge/Website-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Website" />
 </a>
 <a href="https://github.com/mdshawn">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub" />
 </a>
 <a href="https://www.facebook.com/md.shawn.101">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" alt="Facebook" />
+<img src="https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" alt="Facebook" />
 </a>
 </p>
 
