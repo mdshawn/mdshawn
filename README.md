@@ -51,12 +51,16 @@ I'm a Computer Engineer with a strong foundation in MERN Stack web development, 
 
 <h4 align="center">IT Support & Networking</h4>
 <p align="center">
+  <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
+  </a>
+  <a href="https://mikrotik.com/training/certificates" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MTCNA-EA1D25?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MTCNA"/>
+  </a>
   <img src="https://img.shields.io/badge/Network_Configuration-007ACC?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Configuration" />
   <img src="https://img.shields.io/badge/Network_Security-FF0000?style=for-the-badge&logo=fortinet&logoColor=white" alt="Network Security" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Active Directory" />
   <img src="https://img.shields.io/badge/Virtualization-0078D4?style=for-the-badge&logo=vmware&logoColor=white" alt="Virtualization" />
   <img src="https://img.shields.io/badge/Help_Desk-007ACC?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Help Desk Support" />
-  <img src="https://img.shields.io/badge/TCP/IP-000000?style=for-the-badge&logo=wireshark&logoColor=white" alt="TCP/IP" />
   <img src="https://img.shields.io/badge/Firewalls-FF4500?style=for-the-badge&logo=palo-alto-networks&logoColor=white" alt="Firewalls" />
 </p>
 
