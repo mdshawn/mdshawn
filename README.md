@@ -86,39 +86,36 @@ I'm a Computer Engineer with a strong foundation in MERN Stack web development, 
   <li>CCNA</li>
 </ul>
 
-<h3>💡 Projects</h3>
-<ul>
-  <li><strong>[Project Name 1]</strong> – A brief description of the project and technologies used. <br/> 🔗 Link to Repo | 🔗 Live Demo</li>
-  <li><strong>[Project Name 2]</strong> – A brief description of the project and technologies used. <br/> 🔗 Link to Repo | 🔗 Live Demo</li>
-</ul>
 
-<h3>📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdshawn&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshawn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mdshawn&theme=radical&no-frame=true" alt="GitHub Profile Trophy" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdshawn&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=mdshawn&theme=github" alt="GitHub Activity Graph" />
-  <img src="https://metrics.lecoq.io/mdshawn" alt="GitHub Metrics" />
-  <img src="https://gpvc.arturio.dev/mdshawn" alt="Profile views" />
-</div>
-
-<h3>🤝 Connect with me</h3>
+<!-- GitHub Trophies -->
 <p align="center">
-  <a href="mailto:mujahidulislamshawn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://devmujahidul.me/">
-    <img src="https://img.shields.io/badge/Website-1572B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://github.com/mdshawn">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.facebook.com/md.shawn.101">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=mdshawn&theme=algolia&margin-w=15&no-frame=true" />
 </p>
 
-<div align="center">
-  <p>Thanks for visiting my profile! Have a great day! 👋</p>
-</div>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdshawn&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdshawn&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdshawn&show_icons=true&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshawn&layout=compact&theme=algolia&hide_border=true" />
+</p>
+
+<!-- Profile views counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdshawn&label=Profile+views&color=0e75b6&style=flat" />
+</p>
+
+<!-- Connect with me -->
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://github.com/mdshawn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+<p align="center">Thanks for visiting my profile! Have a great day! 👋</p>
+
